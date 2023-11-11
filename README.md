@@ -8,5 +8,6 @@ I'd like to say that these scripts aren't for "exploiting"/"breaking" the game o
 
 ### Script Executor
 ```lua
-loadstring()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhAlexCoding/1BobloxScripts/main/script-executor.lua"))()
 ```
+This is an executor named "Orange Executor (X)". Used to execute scripts such as a highlight script.
